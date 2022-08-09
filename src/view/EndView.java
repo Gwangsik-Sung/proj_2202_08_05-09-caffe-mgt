@@ -1,3 +1,11 @@
+/** 
+ * PROJECT : 카페 데이터 관리
+ * NAME : EndView.java
+ * DESC : 고객에게 보여지는 최종 화면
+ * 
+ * @author 성광식  
+ * @version 1.0
+*/
 package view;
 
 import java.util.ArrayList;
